@@ -1,3 +1,5 @@
+Project Installation Guide
+
 1. Prerequisites
 Node.js - Ensure Node.js is installed on your machine.
 
